@@ -1,6 +1,7 @@
 # jack-in-the-box
 
 
-![](https://github.com/rubberdk/images/blob/master/jack-box-setup.jpg?raw=true)
+![setup]
+(https://raw.github.com/rubberdk/images/master/jack-box-setup.jpg)
 
 ![](https://media.giphy.com/media/nonar2tqT1vAxYftlu/giphy.gif)
